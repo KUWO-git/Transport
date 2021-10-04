@@ -64,7 +64,7 @@
 
 ##### 作製ソフトについてについて
 
-このサイトは[Typora](https://www.typora.io/)というソフトを利用して作製しています。元データのmdファイルはこちらからダウンロードできるので、ここから更新してください。Typoraの使い方に関しては[こちら](https://tele-commuter.com/tool/typora-markdown-editor/)を参照してください。
+このサイトは[Typora](https://www.typora.io/)というソフトを利用して作製しています。元データのmdファイルは[こちら](https://github.com/KUWO-git/Transport/raw/main/T-%E9%9A%8A%E5%BC%95%E7%B6%99%E3%81%8E%E8%B3%87%E6%96%99.md)からダウンロードできるので、ここから更新してください。Typoraの使い方に関しては[こちら](https://tele-commuter.com/tool/typora-markdown-editor/)を参照してください。
 
 ##### サーバーについて
 
