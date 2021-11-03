@@ -24,15 +24,20 @@
 | 5日前まで            | バンの予約                            |
 
 - Googleフォームについて
-  - ここから編集していました。[運搬楽器の事前調査編集](https://docs.google.com/forms/d/1JNoreBGnzk489VXLpPCDZj3djY1S2K_mEB3DDWCha5E/edit)
+  - ここから編集しできます。[運搬楽器の事前調査編集](https://docs.google.com/forms/d/14tht84GGiTQeBX3jbp6OPhJh81OWe2XEYpwoKYmAp0w/edit?usp=sharing)
+
+    (上記は2022年版です。旧版は[こちら](https://docs.google.com/forms/d/1JNoreBGnzk489VXLpPCDZj3djY1S2K_mEB3DDWCha5E/edit?usp=sharing)から。)
 
   - Googleフォームの編集について、注意点を纏めたものです。slackと連携させるのであれば必須ですので必ず確認してください。
 
-    [Googleフォームのヒント](https://kuwo-info.github.io/glee/01_transport/forms_tips.html)
-
+    1. [質問事項設定時の注意](https://kuwo-info.github.io/glee/01_transport/forms_tips.html)
+    2. 新規ルーム作成時のヒント
+  
   - 部員への送信リンクは以下をコピペしてください。
   
-    https://forms.gle/QUXmTvbb3E2CKF1A7
+    https://forms.gle/xDhfrGMRVfMSGHbL8
+    
+    (上記は2022年版です。旧版はこちら：https://forms.gle/QUXmTvbb3E2CKF1A7)
   
 - スマートフォンでの閲覧及び通知について
 
