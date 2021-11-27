@@ -37,6 +37,10 @@
     https://forms.gle/xDhfrGMRVfMSGHbL8
     
     (上記は2022年版です。旧版はこちら：https://forms.gle/QUXmTvbb3E2CKF1A7)
+    
+  - スプレッドシートは[こちら](https://docs.google.com/spreadsheets/d/1nsuPiWV656nW1Lz4oEwyIDNJlqzUs0buoOpuBOvu-Dk/edit?usp=sharing)から閲覧できます。
+  
+    (スプレッドシートを共有して欲しいといわれたので、下のリンクを送信すれば閲覧できるようにしておきました。"https://docs.google.com/spreadsheets/d/1nsuPiWV656nW1Lz4oEwyIDNJlqzUs0buoOpuBOvu-Dk/edit?usp=sharing")
   
 - スマートフォンでの閲覧及び通知について
 
