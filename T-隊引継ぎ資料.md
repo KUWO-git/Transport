@@ -4,11 +4,11 @@
 
 ## 引継ぎ資料
 
-引継ぎ資料です。wordファイルは自動でダウンロードされます。
+引継ぎ資料です。
 
-[pdfファイル](https://kuwo-info.github.io/glee/01_transport/1_2019_pdf.pdf)
+[pdfファイル](https://kuwo-git.github.io/Transport/transport2021.pdf)
 
-[wordファイル](https://github.com/Doya0910/T-test.gitub.io/blob/main/1_2019_word.docx?raw=true)
+[wordファイル](https://kuwo-git.github.io/Transport/transport2021.docx)
 
 ## 運搬調査
 
